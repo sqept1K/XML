@@ -1,0 +1,19 @@
+<root>
+    <name>maksim</name>
+    <surname>borodin</surname>\
+    <patronymic>valer'evich</patronymic>
+    <age>29</age>
+    <pets>
+        <pet>
+        <type>dog</type>    
+        <name>margo</name>
+        <bread>spitz</bread>
+        </pet>
+        <pet>
+        <type>cat</type>
+        <name>musya</name>
+        <breed>blackPanther</breed>
+        </pet>
+    </pets>
+    <salary>5000$</salary>
+</root>
