@@ -1,0 +1,26 @@
+<preferences>
+    <favoriteMovies>
+        <movie>
+            <type>serial</type>        
+            <genre>crime</genre>
+            <name>breaking bad</name>
+            </movie>
+        <movie>
+            <type>film</type>
+            <gengre>drama</gengre>
+            <name>green mile</name>
+        </movie>
+    </favoriteMovies>
+    <favoritesFood>
+        <food>hodgepodge</food>
+        <food>potatoes</food>
+        <food>chiken</food>
+    </favoritesFood>
+    <countries>
+        <country>germany</country>
+        <country>italy</country>
+        <country>france</country>
+        <country>iraq</country>
+        <country>israel</country>
+    </countries>
+</preferences>
