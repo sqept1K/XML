@@ -1,1 +1,20 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <id>1</id>
+  <title>Request /search/products has not been sent, when user fills search field</title>
+  <severty>critical</severty>
+  <priority>high</priority>
+  <enviroment>
+    <os>macOS</os>
+    <osVersion>monterey_12.5</osVersion>
+    <browser>safari</browser>
+    <browserVersion>15.6</browserVersion>
+  </enviroment>
+  <preconditions>home page is opened</preconditions>
+  <steps>
+      <step>click on search field</step>
+      <step>fill search field with value tv</step>
+  </steps>
+  <expectedResult>search results are appeared on page</expectedResult>
+  <actualResult>Request /search/products has not been sent. The are no search results on page</actualResult>
+</root>
